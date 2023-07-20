@@ -8,11 +8,11 @@ draft: false
 
 ![image](https://media.discordapp.net/attachments/1130869397733523570/1130870193694974004/image.png)
 
-## Use `/config role` to set-up role permission
+## Use `/config role` to set up role permission
 
-> Teacher : Can manage classes and use tools made for teacher\
-> Admin : Add teachers, students and access to all commands\
-> Students : No permissions for now but set-up the role for future permissions
+> Teacher: Can manage classes and use tools made for teacher\
+> Admin: Add teachers & students, and access to all commands\
+> Students: No permissions for now but set up the role for future permissions...
 
 ### _You will see a message similar to the following message to see the change._
 
