@@ -1,9 +1,9 @@
 enableCopyright = true
+docSections = ["docs"]
 
 [logo]
-darkMode = 'https://media.discordapp.net/attachments/1047524395893137510/1131631214986535023/070fe9f6c258b56c8083a05a66f76773_1-modified.png'
-lightMode = 'https://media.discordapp.net/attachments/1047524395893137510/1131631214986535023/070fe9f6c258b56c8083a05a66f76773_1-modified.png'
-
+darkMode = 'favicons/favicon-48x48.png'
+lightMode = 'favicons/favicon-48x48.png'
 [search]
 on = true
 global = true # turn to `true` to enable global search

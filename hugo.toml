@@ -1,2 +1,8 @@
 title = 'LMS Wiki'
 theme = "compose"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+unsafe = true

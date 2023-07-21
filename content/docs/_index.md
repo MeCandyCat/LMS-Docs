@@ -6,9 +6,12 @@ draft: false
 
 Welcome to the Docs page of the `LMS Discord Bot`. Here you can find all the features that are avalible through the bot and how to use them.
 
+<img src="/images/lms.png" style="display: block; margin-left: auto; margin-right: auto; width: 30%;">
+
 ## Sections
 
-- [Getting Started](getting-started)
-- [Creating & Deleting Classes](classes)
-- [Creating & Sending Assignments](assignments)
-- [Sending Polls](polls)
+-   [Getting Started](getting-started)
+-   [Creating & Deleting Classes](classes)
+-   [Creating & Sending Assignments](assignments)
+-   [Marking Attendance](attendance)
+-   [Sending Polls](polls)
