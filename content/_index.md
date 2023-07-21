@@ -4,7 +4,11 @@ date: 2023-07-21T06:11:10+05:30
 draft: false
 ---
 
-![lms](https://media.discordapp.net/attachments/1047524395893137510/1131817679750168606/managing_server.png)
+<div style="display: flex; align-items:center; flex-direction:column">
+
+![banner](/banner.png)
+
+</div>
 
 ## The wiki page for the Discord LMS bot.
 
