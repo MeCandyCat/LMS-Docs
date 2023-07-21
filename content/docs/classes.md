@@ -30,5 +30,11 @@ You will be greeted with this!
 _Add the class role to the students that should see the class_
 {{< /tip >}}
 
-
 ## Deleting a class
+
+Use the command `/class delete` and select the **CLASS CATEGORY!** and hit enter.\
+![class delete command](https://media.discordapp.net/attachments/1047524395893137510/1131834683781566545/image.png)
+
+{{<tip "warning">}}
+Make sure you select the **Class Category**. This is required in order for the command to work
+{{</tip>}}
