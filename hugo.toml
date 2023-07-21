@@ -4,4 +4,4 @@ title = 'LMSwiki'
 theme = "compose"
 
 [params]
-    BookTheme = 'dark'
+BookTheme = 'dark'
