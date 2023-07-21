@@ -6,7 +6,7 @@ draft: false
 
 <div style="display: flex; align-items:center; flex-direction:column">
 
-![banner](/banner.png)
+![banner](./banner.png)
 
 </div>
 
