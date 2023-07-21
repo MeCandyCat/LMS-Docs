@@ -1,7 +1,8 @@
 ---
-title: "Creating and Sending Assignments"
+title: "Creating & Sending Assignments"
 date: 2023-07-21T06:47:07+05:30
 draft: false
+weight: 3
 ---
 
 LMS Bot provides a useful feature called assignments. With this teachers can easily create and send assignments to students while they can easily submit it back.
@@ -32,13 +33,15 @@ Use the command `/assingment` send and attach the document..
 Make sure you copy & paste the correct **assignment ID!**
 {{< /tip >}}
 
-![assignment send](https://media.discordapp.net/attachments/1130869397733523570/1130889956408180827/image.png)
+![assignment send](https://media.discordapp.net/attachments/1047524395893137510/1131816468946890832/image.png)
 
 This message will be appear when you submit the document!
 
 ![assignment submit message](https://media.discordapp.net/attachments/1130869397733523570/1130890408155676682/image.png)
 
+{{<tip>}}
 The assignment will be sent to the teacher
 The teacher can review it. And later stop accepting submissions.
 
 ![the message that teacher would see](https://media.discordapp.net/attachments/1130869397733523570/1130890838210257027/image.png)
+{{</tip>}}

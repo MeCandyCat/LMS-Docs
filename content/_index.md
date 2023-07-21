@@ -1,10 +1,10 @@
 ---
-title: "LMSwiki"
+title: "LMS Wiki"
 date: 2023-07-21T06:11:10+05:30
 draft: false
 ---
 
-![lms](https://images-ext-1.discordapp.net/external/u2ChEhHhEZF6h-vu2TLBNCtEOjU3ZsCD1-gYlr8erxg/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1070318648910164048/070fe9f6c258b56c8083a05a66f76773?width=628&height=628)
+![lms](https://media.discordapp.net/attachments/1047524395893137510/1131817679750168606/managing_server.png?width=1440&height=475)
 
 ## The wiki page for the Discord LMS bot.
 

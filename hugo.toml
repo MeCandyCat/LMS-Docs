@@ -1,7 +1,2 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'LMSwiki'
+title = 'LMS Wiki'
 theme = "compose"
-
-[params]
-BookTheme = 'dark'
