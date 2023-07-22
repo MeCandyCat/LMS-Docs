@@ -8,7 +8,7 @@ Welcome to the Docs page of the **LMS Discord Bot**. Here you can find all the f
 
 <div class="center-stuff">
 
-<img src="[./lms.pn](https://github.com/MeCandyCat/LMS-wiki/blob/main/content/banner.png?raw=true)g" style="height:256px">
+<img src="[PNG](https://mecandycat.github.io/LMS-wiki/banner.png)" style="height:256px">
 
 </div>
 
