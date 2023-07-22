@@ -4,11 +4,11 @@ date: 2023-07-21T06:17:28+05:30
 draft: false
 ---
 
-Welcome to the Docs page of the `LMS Discord Bot`. Here you can find all the features that are avalible through the bot and how to use them.
+Welcome to the Docs page of the **LMS Discord Bot**. Here you can find all the features that are available through the bot and how to use them.
 
 <div class="center-stuff">
 
-<img src="./lms.png" style="height:256px">
+<img src="[./lms.pn](https://github.com/MeCandyCat/LMS-wiki/blob/main/content/banner.png?raw=true)g" style="height:256px">
 
 </div>
 
