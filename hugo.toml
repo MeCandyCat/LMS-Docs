@@ -1,6 +1,7 @@
 title = 'LMS Wiki'
 theme = "compose"
 baseURL = "https://mecandycat.github.io/LMS-wiki/"
+
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 

@@ -1,5 +1,5 @@
 ---
-title: "Search"
+title: ""
 searchPage: true
 type: "search"
 ---

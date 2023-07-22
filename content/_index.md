@@ -12,4 +12,12 @@ draft: false
 
 ## The wiki page for the Discord LMS bot.
 
-Meet LMS, your all-in-one solution for online classes in Discord! With its easy-to-use education tools, you'll be able to host and manage engaging and interactive classes easily. Join us and elevate your learning experience today!
+Welcome to the wiki page of the **LMS Discord Bot**. Here you can find all the features that are available through the bot and how to use them.
+
+## Sections
+
+-   [Getting Started](getting-started)
+-   [Creating & Deleting Classes](classes)
+-   [Creating & Sending Assignments](assignments)
+-   [Marking Attendance](attendance)
+-   [Sending Polls](polls)

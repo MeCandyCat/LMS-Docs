@@ -1,12 +1,12 @@
 enableCopyright = true
-docSections = ["docs"]
 
 [logo]
 darkMode = 'favicons/favicon-48x48.png'
 lightMode = 'favicons/favicon-48x48.png'
+
 [search]
 on = true
-global = true # turn to `true` to enable global search
+global = true
 
 [author]
 name = "LMS Developer Team"
