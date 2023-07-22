@@ -4,7 +4,7 @@ date: 2023-07-21T06:11:10+05:30
 draft: false
 ---
 
-<div style="display: flex; align-items:center; flex-direction:column">
+<div class="center-stuff">
 
 ![banner](./banner.png)
 

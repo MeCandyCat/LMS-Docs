@@ -6,8 +6,10 @@ draft: false
 
 Welcome to the Docs page of the `LMS Discord Bot`. Here you can find all the features that are avalible through the bot and how to use them.
 
-<div style="display:flex; justify-content:center">
+<div class="center-stuff">
+
 <img src="./lms.png" style="height:256px">
+
 </div>
 
 ## Sections
