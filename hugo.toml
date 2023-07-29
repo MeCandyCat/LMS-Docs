@@ -1,5 +1,5 @@
 theme = "compose"
-baseURL = "https://mecandycat.github.io/LMS-wiki/"
+baseURL = "https://mecandycat.github.io/LMS-Docs/"
 
 
 [outputs]
