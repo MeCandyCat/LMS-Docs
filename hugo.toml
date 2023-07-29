@@ -1,9 +1,6 @@
-title = 'LMS Docs'
-descripton = 'Learn to manage your server with LMS Discord Bot'
-images = ['https://i.imgur.com/S7CTD5n.png']
 theme = "compose"
-theme_color = "#2e9eef"
 baseURL = "https://mecandycat.github.io/LMS-wiki/"
+
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]

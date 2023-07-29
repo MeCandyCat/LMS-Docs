@@ -1,5 +1,5 @@
 ---
-title: "LMS Wiki"
+title: "LMS Docs"
 date: 2023-07-21T06:11:10+05:30
 draft: false
 ---
