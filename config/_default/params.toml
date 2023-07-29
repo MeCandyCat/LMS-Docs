@@ -9,8 +9,7 @@ darkMode = 'favicons/favicon-48x48.png'
 lightMode = 'favicons/favicon-48x48.png'
 
 [search]
-on = true
-global = true
+on = false
 
 [author]
 name = "LMS Developer Team"
