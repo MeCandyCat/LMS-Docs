@@ -11,9 +11,9 @@ LMS Bot provides a useful feature called assignments. With this teachers can eas
 
 Use the command `/assignment create` to send the assignment to the class
 
-{{< tip >}}
+{{<tip>}}
 **Make sure to use the command in the class channel.** As it will create a message with the assignment details on the channel it was sent
-{{< /tip >}}
+{{</tip>}}
 
 ![assignment create command](https://media.discordapp.net/attachments/1130869397733523570/1130885168375287888/image.png)
 
@@ -29,9 +29,9 @@ A Channel will be created for the teacher to view the sent assignments.
 
 Use the command `/assingment` send and attach the document..
 
-{{< tip >}}
+{{<tip>}}
 Make sure you copy & paste the correct **assignment ID!**
-{{< /tip >}}
+{{</tip>}}
 
 ![assignment send](https://media.discordapp.net/attachments/1047524395893137510/1131816468946890832/image.png)
 
