@@ -15,15 +15,15 @@ Use the command `/assignment create` to send the assignment to the class
 **Make sure to use the command in the class channel.** As it will create a message with the assignment details on the channel it was sent
 {{</tip>}}
 
-![assignment create command](https://media.discordapp.net/attachments/1130869397733523570/1130885168375287888/image.png)
+![assignment create command](https://i.imgur.com/l0QsBeI.png)
 
 An Embed as shown will be sent to the class channel the command was ran on.The students can use the assignment id to send the assignment.
 
-![assignment embed](https://media.discordapp.net/attachments/1130869397733523570/1130886202996830310/image.png)
+![assignment embed](https://i.imgur.com/WvINR7Q.png)
 
-A Channel will be created for the teacher to view the sent assignments.
+A Channel will be created for the teacher to view submissions from students.
 
-![assignment channel](https://media.discordapp.net/attachments/1130869397733523570/1130886385985933394/image.png)
+![assignment channel](https://i.imgur.com/TlLDj5j.png)
 
 ## Submitting Assignments
 
@@ -33,15 +33,15 @@ Use the command `/assingment` send and attach the document..
 Make sure you copy & paste the correct **assignment ID!**
 {{</tip>}}
 
-![assignment send](https://media.discordapp.net/attachments/1047524395893137510/1131816468946890832/image.png)
+![assignment send](https://i.imgur.com/4YTwzL8.png)
 
 This message will be appear when you submit the document!
 
-![assignment submit message](https://media.discordapp.net/attachments/1130869397733523570/1130890408155676682/image.png)
+![assignment submit message](https://i.imgur.com/tOwLTHr.png)
 
 {{<tip>}}
-The assignment will be sent to the teacher
+The assignment will be sent to the teacher.
 The teacher can review it. And later stop accepting submissions.
 
-![the message that teacher would see](https://media.discordapp.net/attachments/1130869397733523570/1130890838210257027/image.png)
+![the message that teacher would see](https://i.imgur.com/B5HcFjy.png)
 {{</tip>}}
