@@ -4,9 +4,9 @@ images = ['images/feature.png']
 metaThemeColor = "#2e9eef"
 enableCopyright = true
 
-[logo]
-darkMode = 'favicons/favicon-48x48.png'
-lightMode = 'favicons/favicon-48x48.png'
+BookTheme = 'dark'
+BookLogo = 'logo.png'
+
 
 [search]
 on = false

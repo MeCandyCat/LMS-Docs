@@ -27,6 +27,6 @@ You can use `/config view` to view the current config of the server
 
 ![image](https://media.discordapp.net/attachments/1130869397733523570/1130872768762757150/image.png)
 
-{{<tip>}}
+{{<hint info>}}
 Now you can assign these roles to the respective people
-{{</tip>}}
+{{</hint>}}

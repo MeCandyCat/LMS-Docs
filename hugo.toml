@@ -1,6 +1,6 @@
-theme = "compose"
+title = 'LMS Docs'
+theme = "hugo-book"
 baseURL = "https://mecandycat.github.io/LMS-Docs/"
-
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
