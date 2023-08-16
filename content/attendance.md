@@ -2,7 +2,7 @@
 title: "Marking Attendance"
 date: 2023-07-21T11:54:53+05:30
 draft: false
-weight: 4
+weight: 5
 ---
 
 This feature allows you to markdown all the members in a vc. Large meeting you can mark down the attendance of the students or users.

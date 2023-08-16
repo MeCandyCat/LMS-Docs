@@ -2,7 +2,7 @@
 title: "Send Polls"
 date: 2023-07-21T11:23:34+05:30
 draft: false
-weight: 5
+weight: 6
 ---
 
 This command allow you to ask a simple question and get votes as a reaction, in a beautiful embed.

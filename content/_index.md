@@ -19,5 +19,7 @@ Welcome to the wiki page of the **LMS Discord Bot**. Here you can find all the f
 -   [Getting Started](getting-started)
 -   [Creating & Deleting Classes](classes)
 -   [Creating & Sending Assignments](assignments)
+-   [Shedule Meetings](meetings)
 -   [Marking Attendance](attendance)
 -   [Sending Polls](polls)
+
