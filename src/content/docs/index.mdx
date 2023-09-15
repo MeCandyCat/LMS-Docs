@@ -9,26 +9,33 @@ hero:
         file: ../../assets/logo.png
     actions:
         - text: Getting Started
-          link: /getting-started
+          link: /getting-started/
           icon: right-arrow
           variant: primary
+        - text: Invite Bot
+          link: /tet
+          icon: discord
+          variant: secondary
+pagefind: false
+sidebar:
+    hidden: true
 ---
 
 import { Card, CardGrid } from "@astrojs/starlight/components";
 
-## Next steps
+## Features
 
 <CardGrid>
-    <Card title="Create classes" icon="open-book">
+    <Card title="Configure Bot" icon="setting">
+        Configure your server your way!
+    </Card>
+    <Card title="Create Classes" icon="open-book">
         Easily create classes and manage them!
     </Card>
-    <Card title="Easy Assignments" icon="pencil">
+    <Card title="Assignments" icon="pencil">
         Assignments can be assigned, managed, and submitted easily!
     </Card>
-    <Card title="Configure as you please" icon="setting">
-        Can configure every single variable, literally!
-    </Card>
-    <Card title="Always updating" icon="rocket">
-        Always improves without sacrificing stability.
+    <Card title="Dashboard" icon="rocket">
+        Use our easy dashboard to manage the bot.
     </Card>
 </CardGrid>

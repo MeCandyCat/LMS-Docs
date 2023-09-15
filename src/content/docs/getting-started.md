@@ -6,11 +6,9 @@ sidebar:
 ---
 
 You must complete the following steps in order to the bot to function!
-
-### Setting up
+## Setting up
 
 Use `/config role` to set up role permission
-
 
 > Teacher: Can manage classes and use tools made for teacher\
 > Admin: Add teachers & students, and access to all commands\
@@ -22,7 +20,7 @@ _You will see a message similar to the following message to see the change._
 
 ![image](https://i.imgur.com/b4kqN0I.png)
 
-### Viewing current config
+## Viewing current configuration
 
 You can use `/config view` to view the current config of the server.
 

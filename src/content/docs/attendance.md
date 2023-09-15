@@ -4,7 +4,7 @@ date: 2023-07-21T11:54:53+05:30
 draft: false
 ---
 
-This feature allows you to markdown all the members in a vc. Large meeting you can mark down the attendance of the students or users.
+This is a small neat feature that allows you to quickly grab the usernames of everyone who is currently in the meeting.
 
 **Use the command `/attendance` without any options to mark the vc you are in**\
 ![attendance command](https://i.imgur.com/MiQ2x7F.png)

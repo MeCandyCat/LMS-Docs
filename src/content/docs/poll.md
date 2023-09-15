@@ -6,7 +6,7 @@ draft: false
 
 This command allow you to ask a simple question and get votes as a reaction, in a beautiful embed.
 
-### Creating a poll
+## Creating a poll
 
 Use the command `/poll` and mention the question.
 ![poll command](https://i.imgur.com/n8ehuNj.png)

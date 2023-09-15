@@ -15,6 +15,11 @@ export default defineConfig({
             social: {
                 discord: "https://discord.gg/FMxa75JcB2",
             },
+            customCss: [
+                './src/styles/theme.css',
+                './src/styles/custom.css',
+				'@fontsource/montserrat/600.css'
+            ]
         }),
     ],
 });
